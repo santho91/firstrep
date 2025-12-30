@@ -1,2 +1,2 @@
 firts line for file1.txt
-second line for file2.txt
+second line deleted and added another line
